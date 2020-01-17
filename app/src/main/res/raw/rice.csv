@@ -1,0 +1,12 @@
+Weather,Temperature,Month,ROP,Crop_Price
+sunny,25,12,good,excellent
+cloudy,23,1,verygood,good
+rainy,28,3,excellent,worst
+windy,25,11,good,verygood
+sunny,30,7,good,good
+sunny,29,9,worst,excellent
+rainy,29,10,worst,excellent
+cloudy,28,2,excellent,worst
+windy,31,4,verygood,good
+windy,32,6,good,verygood
+rainy,30,8,good,verygood

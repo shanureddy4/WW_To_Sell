@@ -1,0 +1,5 @@
+at first created drawable_menu.xml with all the icons and values under menu and set it to navigation_view
+and created header in another xml with all the xml that need to be there on the upper part
+for combining these two I used drawable layout in home.xml with one navigation view and linear layout. in limear layout i used frameview for fragment and toolbar. here for navigationview we should get a depencency
+now for viewing each menu item I created xml file with each item in menu item list and creaed kotlin file for each layout. here only extended fragment but not used fragment directly from the new list
+using fragment container I replaced FrameView in home.xml with fragments

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">W&amp;W_To_Sell</string>
+    <string name="Trade1">Here you can sell your crop with your own price</string>
+    <string name="notifications">Notifications</string>
+    <string name="sold_crops">Upload Data</string>
+    <string name="prediction">Prediction</string>
+    <string name="logout">Logout</string>
+    <string name="navigation_open">navigationbar opened</string>
+    <string name="navigation_close">navigationbar closed</string>
+    <string name="home">Home</string>
+    <string name="shanu">shanu</string>
+    <string name="Trade">Here you can sell your crop to the        various communities</string>
+    <string name="predict_text">Here you can predict your crop price for the next few months</string>
+    <string name="cropdetails">Please Enter Your Crop Details</string>
+    <string name="availablecrops">Available crops to purchase</string>
+    <string name="sleectcrop">please select the crop for prediction</string>
+    <string name="entervalue">we are suppose to know when you are going to cutivate this crop and some details</string>
+    <string name="result">It seems you can have EXCELLENT crop production and GOOD price value</string>
+</resources>
