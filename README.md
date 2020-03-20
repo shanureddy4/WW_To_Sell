@@ -5,5 +5,5 @@ To overcome this issue Iam planning to put "upload dataset" section within the a
 
 
 ######used libraries/API's#######
-Android-Bootstrap(https://github.com/Bearded-Hen/Android-Bootstrap)
-Firebase for authentication
+1)Android-Bootstrap(https://github.com/Bearded-Hen/Android-Bootstrap)
+2)Firebase for authentication
